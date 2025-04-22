@@ -3,7 +3,7 @@ This is MATLAB code for a Newton-Raphson Iteration to estimate the Eccentric Ano
 
 ## Changeable
 Plug in different values for the following:
-- Semi-major axis - (a)
+- Semi-major Axis - (a)
 - Eccentricity - (e)
 - Time at Periapsis - (t<sub>p</sub>)
 - Time for calculation - (t)
